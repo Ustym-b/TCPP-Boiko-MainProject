@@ -6,8 +6,10 @@ namespace TCPP_Progect_Boiko
     {
         static void Main(string[] args)
         {
-            // First commit ALFA
+            
             Console.WriteLine("Hello World from ALFA!");
+
+            Console.WriteLine("Hello World from ALFA 2 commit and push!");
         }
     }
 }
