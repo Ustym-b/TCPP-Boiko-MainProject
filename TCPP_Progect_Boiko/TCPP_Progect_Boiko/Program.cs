@@ -7,7 +7,7 @@ namespace TCPP_Progect_Boiko
         static void Main(string[] args)
         {
             
-            Console.WriteLine("ALFA chenget in IDE!");
+            Console.WriteLine("Hello World from ALFA changed in browser!");
 
             Console.WriteLine("Hello World from ALFA 2 commit and push!");
         }
